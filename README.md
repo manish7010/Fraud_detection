@@ -1,4 +1,4 @@
-# Fraud Detection ML — Recall-Optimized Credit Card Fraud Model
+# Recall-Optimized Credit Card Fraud Model
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
 [![XGBoost](https://img.shields.io/badge/XGBoost-1.7%2B-orange)](https://xgboost.readthedocs.io)
